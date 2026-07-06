@@ -38,8 +38,8 @@ Spring Cloud 기반 MSA 온라인 서점 프로젝트
 `Java` `Spring Boot` `Spring Cloud` `Spring Data JPA`  
 `MySQL` `Redis` `Docker` `GitHub Actions` `MinIO`
 
-- [프로젝트 저장소](프로젝트-저장소-주소)
-- [포트폴리오](포트폴리오-주소)
+- [프로젝트 저장소](https://github.com/nhnacademy-be12-high-five)
+- [포트폴리오](https://drive.google.com/file/d/1tH1lXj5gDOo1-tsiN1n4roImuI67CARe/view?usp=drive_link)
 
 ## Experience
 
@@ -76,4 +76,4 @@ Spring Cloud 기반 MSA 온라인 서점 프로젝트
 ## Contact
 
 - Email: [fbxogns321@naver.com](mailto:fbxogns321@naver.com)
-- Portfolio: [Java Backend Portfolio](포트폴리오-주소)
+- Portfolio: [Java Backend Portfolio](https://drive.google.com/file/d/1tH1lXj5gDOo1-tsiN1n4roImuI67CARe/view?usp=drive_link)
